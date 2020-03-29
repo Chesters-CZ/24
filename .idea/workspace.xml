@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5afe6c21-b39a-4a8a-9c2e-9a8164abdd8b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/24.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/24.html" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1Zc9VDXUGRoYqwb9IPr8ibkgENB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Praktická cvičení/Seminárek Moě.Kůlvjec.Ipsilon Ipsilon/veppážes" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5afe6c21-b39a-4a8a-9c2e-9a8164abdd8b" name="Default Changelist" comment="" />
+      <created>1585127536602</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585127536602</updated>
+      <workItem from="1585127537964" duration="4322000" />
+      <workItem from="1585149565856" duration="8835000" />
+      <workItem from="1585208261642" duration="20696000" />
+      <workItem from="1585242318529" duration="12941000" />
+      <workItem from="1585296656855" duration="2188000" />
+      <workItem from="1585318515593" duration="1842000" />
+      <workItem from="1585333233188" duration="33000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="292" y="259" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585150661270">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="292" y="259" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.261.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1585150661270" />
+    <state x="740" y="264" key="FileChooserDialogImpl" timestamp="1585333263345">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="740" y="264" key="FileChooserDialogImpl/1920.261.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1585333263345" />
+    <state x="616" y="235" key="run.anything.popup" timestamp="1585213342979">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="616" y="235" key="run.anything.popup/1920.261.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1585213342979" />
+    <state x="682" y="421" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1585229590101">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="682" y="421" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/1920.261.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1585229590101" />
+  </component>
+</project>
